@@ -1,0 +1,39 @@
+.quadrado{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+
+}
+
+.quadradoVermelho{
+    background-color: red;
+    
+}
+
+.quadradoAzul{
+    background-color: deepskyblue;
+}
+
+.quadradoVerde{
+    background-color:forestgreen
+}
+
+.quadradoAmarelo{
+    background-color: yellow;
+}
+
+#quadrado1{
+    border: 1px solid black;
+}
+
+#quadrado2{
+    border: 1px solid black;
+}
+
+#quadrado3{
+    border: 1px solid black;
+}
+
+#quadrado4{
+    border: 1px solid black;
+}
